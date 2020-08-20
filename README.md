@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# Pymaceuticals Inc.: Plotting with Matplotlib
 
 ## Background
 
